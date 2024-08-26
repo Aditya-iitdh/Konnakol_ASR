@@ -24,7 +24,8 @@ from configs import ModelConfigs
 
 configs = ModelConfigs()
 
-dataset_path = "NewData"
+dataset_path = "/content/drive/MyDrive/NewData"
+# dataset_path = "NewData"
 metadata_path = dataset_path + "/metadata.parquet"
 # wavs_path = dataset_path + "/wavs/"
 
